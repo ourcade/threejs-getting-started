@@ -1,0 +1,8 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl yellow
+Kd 0.9960784 0.7764706 0.2196078
+
+newmtl pink
+Kd 0.9960784 0.2196078 0.4117647
+
