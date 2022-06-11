@@ -7,7 +7,7 @@
 
 This is the example code for getting started with Three.js using TypeScript to create a demo based on movement controls from the original DOOM.
 
-🎬 [Watch the video that goes over this code on YouTube!](https://youtu.be/7xjHM5N7LGQ)
+🎬 [Watch the video that goes over this code on YouTube!](https://youtu.be/p4BHphMBlFA)
 
 [Check out Ourcade for more on game development on the web!](https://ourcade.co)
 
